@@ -11,6 +11,10 @@ don't have to file down masters.
 
 3D printed keys are not very durable, and if your lock is stiff, you could easily break off a key in the lock.  Use with care!
 
+Instead of 3D printing them, you *could* just take the codes to a
+locksmith and get them all cut, but that could cost a lot, and
+they'll definitely look at you funny.
+
 ## HOWTO
 
 To use, enter your code into the "bits" array of mkg.rb and run the script
